@@ -1,1 +1,1 @@
-Making a dynamic e-commerce website
+Making a dynamic e-commerce website using html,css, javascript
